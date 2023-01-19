@@ -1,2 +1,2 @@
-# MSc_GISRS
+# MSc_GIS RS
 Personal repository
